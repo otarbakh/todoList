@@ -13,6 +13,7 @@ class MainActivity : AppCompatActivity() {
 
     var oto = "misho"
     var misho = "oto"
+    var mesame = "mesame"
 
 
     private lateinit var binding: ActivityMainBinding
