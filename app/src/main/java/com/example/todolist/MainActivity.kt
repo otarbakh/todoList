@@ -15,6 +15,8 @@ class MainActivity : AppCompatActivity() {
     var misho = "oto"
     var mesame = "mesame"
 
+    var meotxe = "meotxe"
+
 
     private lateinit var binding: ActivityMainBinding
     override fun onCreate(savedInstanceState: Bundle?) {
